@@ -1,0 +1,684 @@
+This XML file does not appear to have any style information associated with it. The document tree is shown below.
+<rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:media="http://search.yahoo.com/mrss/" version="2.0">
+<channel>
+<title>PCWorld</title>
+<link>https://www.pcworld.com</link>
+<description/>
+<language>en-us</language>
+<pubDate>Mon, 10 Sep 2018 22:31:25 -0700</pubDate>
+<lastBuildDate>Mon, 10 Sep 2018 22:31:25 -0700</lastBuildDate>
+<item>
+<title>
+How to create an image backup in Windows 10 and restore it, if need be
+</title>
+<pubDate>Mon, 10 Sep 2018 16:31:00 -0700</pubDate>
+<author>Lincoln Spector</author>
+<dc:creator>Lincoln Spector</dc:creator>
+<description>
+<![CDATA[
+<article> <section class="page"> <p>How do you recover from a dead internal hard drive or SSD? Or if Windows becomes so messed up it’s useless or even unbootable?</p><p>You can always reinstall Windows from scratch. But after that you must reinstall all of your programs, and then reconfigure everything.</p><p>But if you have a relatively recent image backup handy, you can recover Windows, your programs, and your configurations with a few minutes’ work. </p><h2>Image backup vs. file backup</h2> <p>An image backup copies everything on your drive, including partitions and the boot sector. It’s the only way to back up your Windows installation properly, with all of your programs and settings. Don’t confuse this with a file backup, which only copies your data files (documents, photos, spreadsheets, and so on).</p><p class="jumpTag"><a href="/article/3011736/windows/how-to-create-an-image-backup-in-windows-10-and-restore-it-if-need-be.html#jump">To read this article in full, please click here</a></p></section></article>
+]]>
+</description>
+<link>
+https://www.pcworld.com/article/3011736/windows/how-to-create-an-image-backup-in-windows-10-and-restore-it-if-need-be.html#tk.rss_all
+</link>
+<enclosure url="https://images.techhive.com/images/article/2015/01/0129-primary-100539836-medium.jpg" length="0" type="image/jpeg"/>
+<categories>
+<category>Windows</category>
+</categories>
+</item>
+<item>
+<title>
+Best external drives for backup, storage, and portability
+</title>
+<pubDate>Mon, 10 Sep 2018 16:14:00 -0700</pubDate>
+<author>Gordon Mah Ung</author>
+<dc:creator>Gordon Mah Ung</dc:creator>
+<description>
+<![CDATA[
+<article> <section class="page"> <p>Anyone who uses a PC should have an external drive. It’s not only a useful means of data backup and storage, it also allows you to transport files from your desktop or laptop to another device.</p><p><em><strong>Updated 9/10/18</strong> to include Samsung's new Portable SSD X5, which impressed us so much we christened it the <a href="https://www.pcworld.com/article/3198109/storage/best-external-drives.html#toc-3">best portable Thunderbolt 3 drive</a>.  </em></p><section class="product product-chart"><a class="chart-quick-hit-label" rel="nofollow"/><a class="chart-quick-hit-label" rel="nofollow"/><a class="chart-quick-hit-label" rel="nofollow"/> <h6 class="chart-title">External drive cheat sheet</h6> <h5 id="introText" class="intro-text">Our quick-hit recommendations:</h5> <ol class="productChart"> <ol class="productChart"> <li><a class="product-name" href="#" rel="nofollow" data-productid="1437767" data-productlabel="Best external backup drive">My Passport 4TB</a> <a class="product-list-price" href="#" rel="nofollow noopener" target="_blank"/> <a class="btn-amazon" href="#" rel="nofollow noopener" target="_blank">View</a></li> <li><a class="product-name" href="#" rel="nofollow" data-productid="1439115" data-productlabel="Best external performance USB drive">T5 SSD</a> <a class="product-list-price" href="#" rel="nofollow noopener" target="_blank"/> <a class="btn-amazon" href="#" rel="nofollow noopener" target="_blank">View</a></li> <li><a class="product-name" href="#" rel="nofollow" data-productid="1441456" data-productlabel="Best portable Thunderbolt 3 drive">Portable SSD X5</a> <a class="product-list-price" href="#" rel="nofollow noopener" target="_blank"/> <a class="btn-amazon" href="#" rel="nofollow noopener" target="_blank">View</a></li> </ol> </ol> <h5 id="outroText" class="outro-text"> </h5> <input id="chartDisplayOption" type="hidden" value="2"/></section> <p><a href="https://www.pcworld.com/article/3200218/gaming/microsoft-xbox-one-x-price-release-date-games-features-faq.html">Xbox One X</a> one users, as well, would be wise to invest in an external drive as a way of augmenting the console’s measly 1TB hard drive (the external drive needs to be USB 3.0-compatible and will be formatted when you insert the drive). </p><p class="jumpTag"><a href="/article/3198109/storage/best-external-drives.html#jump">To read this article in full, please click here</a></p></section></article>
+]]>
+</description>
+<link>
+https://www.pcworld.com/article/3198109/storage/best-external-drives.html#tk.rss_all
+</link>
+<enclosure url="https://images.idgesg.net/images/article/2017/07/best_external_drives-100728940-large.3x2.jpg" length="0" type="image/jpeg"/>
+<categories>
+<category>Storage</category>
+<category>Hardware</category>
+<category>PCs</category>
+<category>Business</category>
+</categories>
+</item>
+<item>
+<title>
+Best wireless keyboards: Hand-tested reviews of Bluetooth and USB models
+</title>
+<pubDate>Mon, 10 Sep 2018 15:27:00 -0700</pubDate>
+<author>Melissa Riofrio</author>
+<dc:creator>Melissa Riofrio</dc:creator>
+<description>
+<![CDATA[
+<article> <section class="page"> <p>The best wireless keyboards do more than free you from a cable. They let you toss the crummy keyboard you got for free with your PC—does <i>anyone</i> like that one?—and they also give you options. The models we’ve reviewed range from full-size desktop slabs to portable models that skip easily from laptop to tablet to phone. Whatever you need to type with, there’s a keyboard for it. (If you’re looking for a <a href="https://www.pcworld.com/article/3185872/input-keyboards/best-gaming-keyboard.html">gaming keyboard</a>, we’ve got you covered! Click that link to see our full reviews and rankings.)</p><section class="product product-chart"><a class="chart-quick-hit-label" rel="nofollow"/> <h6 class="chart-title">Wireless keyboard cheat sheet</h6> <h5 id="introText" class="intro-text">Our quick-hit recommendations:</h5> <ol class="productChart"> <ol class="productChart"> <li><a class="product-name" href="#" data-productid="1439196" data-productlabel="Best overall wireless desktop keyboard" rel="nofollow"> Modern Keyboard with Fingerprint ID</a> <a class="product-list-price" href="#" rel="nofollow noopener" target="_blank"/> <a class="btn-amazon" href="#" rel="nofollow noopener" target="_blank">View</a></li> <li><a class="product-name" href="#" data-productid="1440680" data-productlabel="Best budget wireless keyboard" rel="nofollow"> MK540 Advanced Wireless Keyboard and Mouse Combo</a> <a class="product-list-price" href="#" rel="nofollow noopener" target="_blank"/> <a class="btn-amazon" href="#" rel="nofollow noopener" target="_blank">View</a></li> <li><a class="product-name" href="#" data-productid="1441105" data-productlabel="Best wireless gaming keyboard" rel="nofollow"> Corsair K63</a> <a class="product-list-price" href="#" rel="nofollow noopener" target="_blank"/> <a class="btn-amazon" href="#" rel="nofollow noopener" target="_blank">View</a></li> <li><a class="product-name" href="#" data-productid="1436049" data-productlabel="Best portable wireless keyboard" rel="nofollow"> K780 Multi-Device Wireless Keyboard</a> <a class="product-list-price" href="#" rel="nofollow noopener" target="_blank"/> <a class="btn-amazon" href="#" rel="nofollow noopener" target="_blank">View</a></li> <li><a class="product-name" href="#" data-productid="1440440" data-productlabel="Coolest-looking wireless keyboard" rel="nofollow"> Retro Classic BT Elwood</a> <a class="product-list-price" href="#" rel="nofollow noopener" target="_blank"/> <a class="btn-amazon" href="#" rel="nofollow noopener" target="_blank">View</a></li> </ol> </ol> <h5 id="outroText" class="outro-text"> </h5> <input id="chartDisplayOption" type="hidden" value="2"/></section> <p>Keyboard choice can be very subjective. That said, we’ve based our reviews on hours spent with each model, banging away on work projects or surfing the web and keeping up on social media. </p><p class="jumpTag"><a href="/article/3075020/input-keyboards/best-wireless-keyboards.html#jump">To read this article in full, please click here</a></p></section></article>
+]]>
+</description>
+<link>
+https://www.pcworld.com/article/3075020/input-keyboards/best-wireless-keyboards.html#tk.rss_all
+</link>
+<enclosure url="https://images.idgesg.net/images/article/2018/08/pcw-keyboard-primary-resized-100767130-large.3x2.jpg" length="0" type="image/jpeg"/>
+<categories>
+<category>Keyboards</category>
+<category>PCs</category>
+<category>Business</category>
+<category>Microsoft</category>
+<category>Logitech</category>
+</categories>
+</item>
+<item>
+<title>
+PCWorld is streaming Destiny 2: Forsaken on Twitch!
+</title>
+<pubDate>Mon, 10 Sep 2018 14:05:00 -0700</pubDate>
+<author>
+Adam Patrick Murray, Dan Masaoka, Hayden Dingman
+</author>
+<dc:creator>
+Adam Patrick Murray, Dan Masaoka, Hayden Dingman
+</dc:creator>
+<description>
+<![CDATA[
+<article> <section class="page"> <p>PCWorld's Hayden Dingman is working hard on the review of the Destiny 2 expansion Forsaken, but you can already check out his first impressions <a href="https://www.pcworld.com/article/3302845/gaming/destiny-2-forsaken-review-impressions.html">here</a>. Today Dan and Adam are hopping back into the sweet Destiny 2 grind -- playing on a Maingear F131 equipped with an Intel Core i9 7980xe and dual Nvidia GTX 1080 Ti's!</p><figure class="large"> <div class="embed-wrapper"> <div class="embed-container"><iframe src="https://player.twitch.tv/?channel=pcworldus" width="620" height="378" frameborder="0" scrolling="no" allowfullscreen="allowfullscreen" data-mce-fragment="1"> </iframe><a href="https://www.twitch.tv/pcworldus?tt_content=text_link&amp;tt_medium=live_embed" rel="nofollow">Watch live video from PCWorldUS on www.twitch.tv</a></div> </div> </figure> <p>Follow <a href="http://www.twitch.tv/pcworldus" rel="nofollow">PCWorld's Twitch</a> channel (or <a href="http://www.youtube.com/user/pcworldvideos" rel="nofollow">YouTube</a>) so you don't miss out on this or future live streams. Tune in every week for podcasts such as The Full Nerd as well as new and old games alike!</p><p class="jumpTag"><a href="/article/3264345/gaming/pcworld-is-streaming-destiny-2-forsaken-on-twitch.html#jump">To read this article in full, please click here</a></p></section></article>
+]]>
+</description>
+<link>
+https://www.pcworld.com/article/3264345/gaming/pcworld-is-streaming-destiny-2-forsaken-on-twitch.html#tk.rss_all
+</link>
+<enclosure url="https://images.idgesg.net/images/article/2018/03/pcw-twitch-100753081-large.3x2.jpg" length="0" type="image/jpeg"/>
+<categories>
+<category>Gaming</category>
+</categories>
+</item>
+<item>
+<title>
+The best laptops: Premium laptops, cheap laptops, 2-in-1s, and more
+</title>
+<pubDate>Mon, 10 Sep 2018 13:34:00 -0700</pubDate>
+<author>
+Gordon Mah Ung, Melissa Riofrio, Alaina Yee
+</author>
+<dc:creator>
+Gordon Mah Ung, Melissa Riofrio, Alaina Yee
+</dc:creator>
+<description>
+<![CDATA[
+<article> <section class="page"> <p>Today’s best laptops bask in the glow of Intel’s 8th-gen Core CPUs, which at last bring quad-core performance to mainstream machines. The only thing missing is Oprah shouting, “and you get an 8th-gen quad-core laptop!”</p><p>There’s plenty of good news with this new generation. Our favorite convertible laptop, <a href="https://www.pcworld.com/article/2854456/laptop-computers/the-best-pc-laptops-of-the-year.html#toc-3">HP’s Spectre x360 13</a>, sports a quad-core 8th-gen chip while maintaining its diminutive size. It’s really the total package. </p><p>But let’s be honest: You probably don’t need a quad-core powerhouse, especially if the hottest application you run is Microsoft Excel. Check out our budget favorites, like the <a href="https://www.pcworld.com/article/2854456/laptop-computers/the-best-pc-laptops-of-the-year.html#toc-2">Acer Aspire E 15</a> and <a href="https://www.pcworld.com/article/2854456/laptop-computers/the-best-pc-laptops-of-the-year.html#toc-4">Asus ZenBook Flip</a>, whose dual-core CPUs do just fine with mainstream fare. Or read about the <a href="https://www.pcworld.com/article/2854456/laptop-computers/the-best-pc-laptops-of-the-year.html?page=2#toc-11">Asus Chromebook Flip</a>, a well-priced and versatile laptop for living on the web—or delving into the wide, wide world of Android apps. </p><p class="jumpTag"><a href="/article/2854456/laptop-computers/the-best-pc-laptops-of-the-year.html#jump">To read this article in full, please click here</a></p></section></article>
+]]>
+</description>
+<link>
+https://www.pcworld.com/article/2854456/laptop-computers/the-best-pc-laptops-of-the-year.html#tk.rss_all
+</link>
+<enclosure url="https://images.idgesg.net/images/article/2018/03/laptop-hub-no-logo-100678726-orig-100753479-large.3x2.jpg" length="0" type="image/jpeg"/>
+<categories>
+<category>Laptops</category>
+<category>PCs</category>
+<category>Business</category>
+<category>Samsung Electronics</category>
+<category>Dell</category>
+<category>HP</category>
+</categories>
+</item>
+<item>
+<title>
+AT&T reveals what cities will get 5G wireless in 2018 and 2019
+</title>
+<pubDate>Mon, 10 Sep 2018 12:57:00 -0700</pubDate>
+<author>Mark Hachman</author>
+<dc:creator>Mark Hachman</dc:creator>
+<description>
+<![CDATA[
+<article> <section class="page"> <p>Deployment of next-generation 5G technology won’t happen overnight, but AT&amp;T said Monday at its Spark conference in San Francisco that it plans to target some of the larger U.S. cities with 5G deployments in 2018 and 2019, including saturating parts of the Bay Area. </p><p>The company has already said that it plans to roll out 5G in Atlanta, Georgia; Charlotte and Raleigh in North Carolina; Dallas and Waco in Texas; Indianapolis, Indiana; and Oklahoma City, Oklahoma. To this list, the company has added two more cities in Texas, Houston and San Antonio; Jacksonville, Florida; Louisville, Kentucky; and New Orleans, Louisiana—again, with plans to bring the 5G technology to these cities later this year. Some cities have already begin receiving the first shipments of 5G equipment, AT&amp;T said.</p><p class="jumpTag"><a href="/article/3304856/internet/att-reveals-what-cities-will-get-5g-wireless-in-2018-and-2019.html#jump">To read this article in full, please click here</a></p></section></article>
+]]>
+</description>
+<link>
+https://www.pcworld.com/article/3304856/internet/att-reveals-what-cities-will-get-5g-wireless-in-2018-and-2019.html#tk.rss_all
+</link>
+<enclosure url="https://images.techhive.com/images/article/2017/02/p1200604-100708710-large.3x2.jpg" length="0" type="image/jpeg"/>
+<categories>
+<category>Internet</category>
+<category>Mobile</category>
+<category>AT&T</category>
+<category>Business</category>
+</categories>
+</item>
+<item>
+<title>
+AMD's Ryzen 5 2500X and Ryzen 3 2300X target budget gamers, but they're not DIY
+</title>
+<pubDate>Mon, 10 Sep 2018 12:34:00 -0700</pubDate>
+<author>Gordon Mah Ung</author>
+<dc:creator>Gordon Mah Ung</dc:creator>
+<description>
+<![CDATA[
+<article> <section class="page"> <p>AMD's two newest quad-core Ryzen X parts cater to budget gamers—you just can't buy them directly.</p><p>AMD on Monday unveiled the Ryzen 5 2500X and the Ryzen 3 2300X. Both CPUs are based on the company's latest 2nd=generation Zen+ micro-architectures, built on a 12nm process.</p><p>The Ryzen 5 2500X appears to vary from its predecessor, the Ryzen 5 1500X, by featuring four active cores on a single die. The Ryzen 5 1500X featured two quad-core dies with two cores disabled on each die.</p><figure class="large "><a class="zoom" href="https://images.idgesg.net/images/article/2018/09/new_ryzen_oem_only-100771318-orig.jpg" rel="nofollow"><img src="https://images.idgesg.net/images/article/2018/09/new_ryzen_oem_only-100771318-large.jpg" border="0" alt="new ryzen oem only" width="700" height="128" data-imageid="100771318" data-license="IDG"/></a> <small class="credit">IDG</small> <figcaption> <p>This version of the budget Ryzen 5 2500X features a single die rather than the dual-die configuration of the Ryzen 5 1500X.</p><p class="jumpTag"><a href="/article/3304288/components-processors/amds-ryzen-5-2500x-and-ryzen-3-2300x-target-budget-gamers-but-theyre-not-diy.html#jump">To read this article in full, please click here</a></p></section></article>
+]]>
+</description>
+<link>
+https://www.pcworld.com/article/3304288/components-processors/amds-ryzen-5-2500x-and-ryzen-3-2300x-target-budget-gamers-but-theyre-not-diy.html#tk.rss_all
+</link>
+<enclosure url="https://images.idgesg.net/images/article/2018/07/amd-ryzen-chip-100764407-large.3x2.jpg" length="0" type="image/jpeg"/>
+<categories>
+<category>Processors</category>
+<category>PCs</category>
+<category>Gaming</category>
+<category>AMD</category>
+<category>Hardware</category>
+</categories>
+</item>
+<item>
+<title>
+4 ways Qualcomm's Snapdragon Wear 3100 chip will supercharge Wear OS watches
+</title>
+<pubDate>Mon, 10 Sep 2018 11:46:00 -0700</pubDate>
+<author>Michael Simon</author>
+<dc:creator>Michael Simon</dc:creator>
+<description>
+<![CDATA[
+<article> <section class="page"> <p>In the two and a half years since Qualcomm unveiled its last smartwatch chip, the landscape has changed quite a bit. Apple has become the far-and-away leader in wearables, Fitbit has launched a full-on smartwatch and app platform, and Google has redesigned and renamed Android Wear to <a href="https://www.pcworld.com/article/3263804/android/android-wear-becomes-wear-os-by-google.html">Wear OS</a>. But Qualcomm is hoping to make up for lost time with the new <a href="https://www.qualcomm.com/news/releases/2018/09/10/qualcomm-snapdragon-wear-3100-platform-supports-new-ultra-low-power-system" rel="nofollow">Snapdragon Wear 3100 platform</a>, which ushers in a completely new manufacturing process with a chip that’s built specifically for watches.</p><p class="jumpTag"><a href="/article/3304371/mobile/snapdragon-wear-3100-wear-os.html#jump">To read this article in full, please click here</a></p></section></article>
+]]>
+</description>
+<link>
+https://www.pcworld.com/article/3304371/mobile/snapdragon-wear-3100-wear-os.html#tk.rss_all
+</link>
+<enclosure url="https://images.idgesg.net/images/article/2018/09/snapdragon-wear-3100-100771321-large.3x2.jpg" length="0" type="image/jpeg"/>
+<categories>
+<category>Mobile</category>
+<category>Components</category>
+<category>Wearables</category>
+</categories>
+</item>
+<item>
+<title>
+The OnePlus 6T will have a feature the iPhone XS and Pixel 3 won’t: an in-display fingerprint reader
+</title>
+<pubDate>Mon, 10 Sep 2018 09:53:00 -0700</pubDate>
+<author>Michael Simon</author>
+<dc:creator>Michael Simon</dc:creator>
+<description>
+<![CDATA[
+<article> <section class="page"> <p>With rumors swirling about Apple’s new <a href="https://www.macworld.com/article/3236255/iphone-ipad/iphone-2018-rumors.html">iPhone XS</a> (landing Wednesday) and <a href="https://www.pcworld.com/article/3293431/android/google-pixel-3-specs-features-price-release-date.html">Google’s Pixel 3</a> (coming October 9), it’s easy to forget that there are other phones arriving this fall. And to make sure it isn’t ignored, OnePlus is teasing a huge feature in its next phone.</p><p><a href="https://www.cnet.com/news/oneplus-6t-in-screen-fingerprint-sensor-confirm-exclusive/" rel="nofollow">In an interview with CNET</a>, a OnePlus representative divulged that the upcoming 6T will have a feature called Screen Unlock, bringing the fabled in-display fingerprint to the most mainstream phone yet. "By adding this feature as an addition to other display unlocking options such as Face Unlock,” OnePlus said, “users will have options to unlock the display in a way that is most efficient for them."</p><p class="jumpTag"><a href="/article/3304369/mobile/oneplus-6t-in-display-fingerprint-reader.html#jump">To read this article in full, please click here</a></p></section></article>
+]]>
+</description>
+<link>
+https://www.pcworld.com/article/3304369/mobile/oneplus-6t-in-display-fingerprint-reader.html#tk.rss_all
+</link>
+<enclosure url="https://images.idgesg.net/images/article/2018/06/oneplus-6-shiny-100760583-large.3x2.jpg" length="0" type="image/jpeg"/>
+<categories>
+<category>Mobile</category>
+<category>Smartphones</category>
+<category>Business</category>
+</categories>
+</item>
+<item>
+<title>
+Assassin's Creed: Odyssey's Exploration Mode isn't afraid of letting players get lost
+</title>
+<pubDate>Mon, 10 Sep 2018 09:00:00 -0700</pubDate>
+<author>Hayden Dingman</author>
+<dc:creator>Hayden Dingman</dc:creator>
+<description>
+<![CDATA[
+<article> <section class="page"> <p>Odysseus would be heartbroken to see his home now. The once resplendent palace on the island of Ithaca is now a crumbling ruin, not much more than scattered piles of stone and a couple of faltering walls. It’s also host to a company of bandits, patrolling the ancient grounds like the suitors who once tried to steal poor Penelope away.</p><p>But not for long. Assassin that I am, I kill first one and then the other bandit leaders. Odysseus may be 800 years dead, but I can at least pay my respects.</p><h2>Not all who wander are lost</h2> <p>At E3 <a href="https://www.pcworld.com/article/3281049/e3/hands-on-assassins-creed-odyssey-e3.html">I played <em>Assassin’s Creed: Odyssey</em></a> ($60 preorder on <a href="https://www.humblebundle.com/store/assassins-creed-odyssey?partner=pcworld" rel="nofollow">Humble</a>) for an hour. This time I played for five, starting from the beginning of the game, and my feelings on it have stayed pretty much the same. <em>Odyssey </em>is the freshest <em>Assassin’s Creed</em> in years.</p><p class="jumpTag"><a href="/article/3304311/gaming/assassins-creed-odyssey-exploration-mode.html#jump">To read this article in full, please click here</a></p></section></article>
+]]>
+</description>
+<link>
+https://www.pcworld.com/article/3304311/gaming/assassins-creed-odyssey-exploration-mode.html#tk.rss_all
+</link>
+<enclosure url="https://images.idgesg.net/images/article/2018/09/acod_125_dialoguechoices_1536354643-100771265-large.3x2.jpg" length="0" type="image/jpeg"/>
+<categories>
+<category>Gaming</category>
+</categories>
+</item>
+<item>
+<title>
+Pixel 3 XL notch conspiracy theory adds intrigue to Google's Oct. 9 phone launch
+</title>
+<pubDate>Mon, 10 Sep 2018 08:54:00 -0700</pubDate>
+<author>Michael Simon</author>
+<dc:creator>Michael Simon</dc:creator>
+<description>
+<![CDATA[
+<article> <section class="page"> <p>We know so much about the new <a href="https://www.pcworld.com/article/3293431/android/google-pixel-3-specs-features-price-release-date.html">Google Pixel 3 and Pixel 3 XL phones</a> that some people are starting to think it’s all a ruse. For the past few weeks, a small band of YouTubers has been spinning a tale that basically consists of Google:</p><ul> <li>a) deliberately leaking prototypes of Pixel phones;</li> <li>b) secretly developing a truly bezel-less phone with no notch called the Pixel Ultra; and</li> <li>c) dropping careful hints that only people in the know would be clever enough to catch.</li> </ul> <p>That’s quite a trick for any company to pull off, let alone of the of the biggest and most scrutinized companies in the world. So how on earth did such a zany theory get started? And is there any shred of it that’s credible? I decided to investigate.</p><p class="jumpTag"><a href="/article/3304366/android/pixel-3-xl-notch-coverup-conspiracy.html#jump">To read this article in full, please click here</a></p></section></article>
+]]>
+</description>
+<link>
+https://www.pcworld.com/article/3304366/android/pixel-3-xl-notch-coverup-conspiracy.html#tk.rss_all
+</link>
+<enclosure url="https://images.idgesg.net/images/article/2018/09/pixel-3-xl-theory-100771293-large.3x2.jpg" length="0" type="image/jpeg"/>
+<categories>
+<category>Android</category>
+<category>Mobile</category>
+<category>Smartphones</category>
+<category>Google</category>
+<category>Google Pixel</category>
+</categories>
+</item>
+<item>
+<title>
+Best home security camera: Keep an eye on the home front
+</title>
+<pubDate>Mon, 10 Sep 2018 08:41:00 -0700</pubDate>
+<author>Michael Ansaldo</author>
+<dc:creator>Michael Ansaldo</dc:creator>
+<description>
+A boom in wireless security cameras is inspiring a movement in DIY home surveillance. Follow our buying guide and read our reviews to find the best option for you.
+</description>
+<link>
+https://www.techhive.com/article/2998898/security-cameras/best-home-security-camera.html#tk.rss_all
+</link>
+<enclosure url="https://images.techhive.com/images/article/2016/11/security-camera-hero-100694753-large.3x2.jpg" length="0" type="image/jpeg"/>
+<categories>
+<category>Cameras</category>
+<category>Hubs and Controllers</category>
+<category>Connected Home</category>
+<category>Home Automation</category>
+<category>Security</category>
+<category>Home Tech</category>
+<category>Holiday Gift Guide</category>
+<category>Surveillance</category>
+</categories>
+</item>
+<item>
+<title>
+Amazon is selling the awesome Ring Video Doorbell 2 for $160, its lowest price ever
+</title>
+<pubDate>Mon, 10 Sep 2018 08:33:00 -0700</pubDate>
+<author>Alexandria Haslam</author>
+<dc:creator>Alexandria Haslam</dc:creator>
+<description>
+<![CDATA[
+<article> <section class="page"> <p>Video doorbells are a vital piece of a secure smart home, and right now one of favorites is at an all-time low. Amazon is selling the <a class="addLink" href="https://www.amazon.com/Ring-8VR1S7-0EU0-Video-Doorbell-2/dp/B072QLXK2T" rel="nofollow noopener" target="_blank" data-product-name="Ring Video Doorbell 2" data-vars-product-name="Ring Video Doorbell 2" data-vars-outbound-link="https://www.amazon.com/Ring-8VR1S7-0EU0-Video-Doorbell-2/dp/B072QLXK2T" data-product-id="000000" data-vars-product-id="000000" data-bkmfr="Ring" data-vars-bkmfr="Ring" data-bkvndr="Amazon" data-vars-bkvndr="Amazon" data-editparamvalues="Ring Video Doorbell 2 for $160 today|Ring|https://www.amazon.com/Ring-8VR1S7-0EU0-Video-Doorbell-2/dp/B072QLXK2T|Amazon|Ring Video Doorbell 2|4|Add Link">Ring Video Doorbell 2 for $160 today</a><a class="removelink" href="#" rel="nofollow"><span class="removelink-tooltip" style="display: none;" data-removeparamvalues="Ring Video Doorbell 2 for $160 today|Ring|https://www.amazon.com/Ring-8VR1S7-0EU0-Video-Doorbell-2/dp/B072QLXK2T|Amazon|Ring Video Doorbell 2|4|Add Link">Remove non-product link</span></a>, down from a list price of $199.</p><p class="jumpTag"><a href="/article/3304816/home-tech/amazon-is-selling-the-awesome-ring-video-doorbell-2-for-160-its-lowest-price-ever.html#jump">To read this article in full, please click here</a></p></section></article>
+]]>
+</description>
+<link>
+https://www.pcworld.com/article/3304816/home-tech/amazon-is-selling-the-awesome-ring-video-doorbell-2-for-160-its-lowest-price-ever.html#tk.rss_all
+</link>
+<enclosure url="https://images.idgesg.net/images/article/2018/02/template-c100.00_00_23_18.still001-100751043-large.3x2.jpg" length="0" type="image/jpeg"/>
+<categories>
+<category>Home Tech</category>
+</categories>
+</item>
+<item>
+<title>
+Buy this cheap GTX 1070 Ti on sale from Dell, then overclock it to GTX 1080 performance
+</title>
+<pubDate>Mon, 10 Sep 2018 07:03:00 -0700</pubDate>
+<author>Ian Paul</author>
+<dc:creator>Ian Paul</dc:creator>
+<description>
+<![CDATA[
+<article> <section class="page"> <p>Hold onto your hats, graphics cards fans. We spotted an actual deal on a great graphics card. This is not one of those “the card is now at its MSRP” deals after a year of cryptocurrency-induced inflated prices. Nope, it’s an actual, honest to goodness deal. Dell is selling a <a class="addLink" href="https://www.dell.com/en-us/shop/accessories/apd/a9972110" rel="nofollow noopener" target="_blank" data-product-name="PNY GeForce GTX 1070 Ti" data-vars-product-name="PNY GeForce GTX 1070 Ti" data-vars-outbound-link="https://www.dell.com/en-us/shop/accessories/apd/a9972110" data-product-id="000000" data-vars-product-id="000000" data-bkmfr="PNY" data-vars-bkmfr="PNY" data-bkvndr="Dell" data-vars-bkvndr="Dell" data-editparamvalues="PNY Nvidia GeForce GTX 1070 Ti for $390|PNY|https://www.dell.com/en-us/shop/accessories/apd/a9972110|Dell|PNY GeForce GTX 1070 Ti|2|Add Link">PNY Nvidia GeForce GTX 1070 Ti for $390</a><a class="removelink" href="#" rel="nofollow"><span class="removelink-tooltip" style="display: none;" data-removeparamvalues="PNY Nvidia GeForce GTX 1070 Ti for $390|PNY|https://www.dell.com/en-us/shop/accessories/apd/a9972110|Dell|PNY GeForce GTX 1070 Ti|2|Add Link">Remove non-product link</span></a>. That’s $60 off the 1070 Ti’s generic MSRP, and the best you’ll find elsewhere is an <a href="https://www.newegg.com/Product/Product.aspx?Item=N82E16814500430R" rel="nofollow">open-box miniature version</a> for about $410.</p><p class="jumpTag"><a href="/article/3304588/computers/buy-this-cheap-gtx-1070-ti-on-sale-from-dell-then-overclock-it-to-gtx-1080-performance.html#jump">To read this article in full, please click here</a></p></section></article>
+]]>
+</description>
+<link>
+https://www.pcworld.com/article/3304588/computers/buy-this-cheap-gtx-1070-ti-on-sale-from-dell-then-overclock-it-to-gtx-1080-performance.html#tk.rss_all
+</link>
+<enclosure url="https://images.idgesg.net/images/article/2018/09/pny1070ti-100771284-medium.jpg" length="0" type="image/jpeg"/>
+<categories>
+<category>PCs</category>
+<category>Gaming</category>
+<category>Graphics Cards</category>
+<category>Hardware</category>
+</categories>
+</item>
+<item>
+<title>
+Huawei's benchmark-cheating Performance Mode could be the Mate 20's hottest feature
+</title>
+<pubDate>Mon, 10 Sep 2018 06:26:00 -0700</pubDate>
+<author>Michael Simon</author>
+<dc:creator>Michael Simon</dc:creator>
+<description>
+<![CDATA[
+<article> <section class="page"> <p>It should have been a great week for Huawei. Following the news that it had <a href="https://money.cnn.com/2018/08/01/technology/huawei-apple-iphone-samsung/index.html" rel="nofollow">overtaken Apple as the No. 2 phone maker in the world</a>, the company set the stage for the next generation of must-have phones with the unveiling of its <a href="https://consumer.huawei.com/en/press/news/2018/huawei-launches-kirin-980-the-first-commercial-7nm-soc/" rel="nofollow">Kirin 980 processor</a> and the launch date for the highly anticipated <a href="https://www.engadget.com/2018/08/31/huawei-mate-20-october-16-london/" rel="nofollow">Mate 20 Pro</a>.</p><p>But instead of a series of positive headlines about what’s to come, Huawei’s old phones were in the news for all the wrong reasons. It started with an <a href="https://www.anandtech.com/show/13318/huawei-benchmark-cheating-headache" rel="nofollow">AnandTech report</a> that uncovered some major inconsistencies with benchmark results. Inside the latest version of software on the P20, P20 Pro, and Honor Play, Huawei was discovered gaming its scores by optimizing the system for certain benchmarking apps, most notably the popular 3DMark and GFXBench suites. According to AnandTech, “the newer devices come with a benchmark detection mechanism that enables a much higher power limit for the SoC with far more generous thermal headroom.”</p><p class="jumpTag"><a href="/article/3304363/android/huawei-cheating-perfomance-mode.html#jump">To read this article in full, please click here</a></p></section></article>
+]]>
+</description>
+<link>
+https://www.pcworld.com/article/3304363/android/huawei-cheating-perfomance-mode.html#tk.rss_all
+</link>
+<enclosure url="https://images.idgesg.net/images/article/2018/04/huawei_p20_review_15-100753952-large.3x2.jpg" length="0" type="image/jpeg"/>
+<categories>
+<category>Android</category>
+<category>Mobile</category>
+<category>Huawei</category>
+<category>Smartphones</category>
+</categories>
+</item>
+<item>
+<title>
+Shadow of the Tomb Raider review: An unsatisfying end to the reboot trilogy
+</title>
+<pubDate>Mon, 10 Sep 2018 06:00:00 -0700</pubDate>
+<author>Hayden Dingman</author>
+<dc:creator>Hayden Dingman</dc:creator>
+<description>
+<![CDATA[
+<article> <section class="page"> <p>Posing questions is easy. Answering questions is hard. If you need proof, look no further than <em>Shadow of the Tomb Raider </em>($60 on <a href="https://www.humblebundle.com/store/shadow-of-the-tomb-raider?partner=pcworld" rel="nofollow">Humble</a>). As the culmination of Lara Croft’s reboot trilogy, it falls to <em>Shadow</em> to reveal every secret hinted at by its predecessors, 2013’s <em>Tomb Raider</em> and 2015’s <em>Rise of the Tomb Raider</em>.</p><p>“Who’s behind Trinity?” “What are their goals?” “Why has Trinity spared Lara’s life?” So many loose threads, begging to be tied off. But as I said: Answering questions is hard.</p><h2><strong>It belongs in a museum</strong></h2> <p>Here comes the disclaimer where I say like, “<em>Shadow of the Tomb Raider</em> isn’t a bad game.” Because it’s not, or at least not in the traditional sense. It’s more of the same—same gadgets, same weapons, same Lara-almost-falls-to-her-death-but-doesn’t false drama.</p><p class="jumpTag"><a href="/article/3304360/gaming/shadow-of-the-tomb-raider-review.html#jump">To read this article in full, please click here</a></p></section></article>
+]]>
+</description>
+<link>
+https://www.pcworld.com/article/3304360/gaming/shadow-of-the-tomb-raider-review.html#tk.rss_all
+</link>
+<enclosure url="https://images.idgesg.net/images/article/2018/09/20180908020759_1-100771251-large.3x2.jpg" length="0" type="image/jpeg"/>
+<categories>
+<category>Gaming</category>
+</categories>
+</item>
+<item>
+<title>Get MCSE Certified With This $49 Training Bundle</title>
+<pubDate>Mon, 10 Sep 2018 05:39:00 -0700</pubDate>
+<author>DealPost Team</author>
+<dc:creator>DealPost Team</dc:creator>
+<description>
+<![CDATA[
+<article> <section class="page"> <p>More and more companies are relying on cloud computing to handle their infrastructures, so IT professionals looking to advance their careers may want to consider earning a cloud certification to meet this rising demand. If you’re an aspiring cloud engineer, you can prep to earn a Microsoft Certified Systems Engineer (MCSE) Cloud Platform and Infrastructure certification with help from the Ultimate MCSE Certification Training Bundle, <a href="https://shop.pcworld.com/sales/the-ultimate-mcse-certification-training-bundle?utm_source=pcworld.com&amp;utm_medium=referral&amp;utm_campaign=the-ultimate-mcse-certification-training-bundle&amp;utm_term=scsf-299500&amp;utm_content=a0x1a000003nvor&amp;scsonar=1" rel="noopener nofollow" target="_blank">on sale for $49</a>.</p><p class="jumpTag"><a href="/article/3304310/careers/get-mcse-certified-with-this-49-training-bundle.html#jump">To read this article in full, please click here</a></p></section></article>
+]]>
+</description>
+<link>
+https://www.pcworld.com/article/3304310/careers/get-mcse-certified-with-this-49-training-bundle.html#tk.rss_all
+</link>
+<enclosure url="https://images.idgesg.net/images/article/2018/09/sale_16147_primary_image-100771258-large.3x2.jpg" length="0" type="image/jpeg"/>
+<categories>
+<category>Careers</category>
+</categories>
+</item>
+<item>
+<title>
+Acer Aspire 5 A515-51-58HD review: Optane memory gives this budget laptop a boost
+</title>
+<pubDate>Mon, 10 Sep 2018 04:14:00 -0700</pubDate>
+<author>Ben Patterson</author>
+<dc:creator>Ben Patterson</dc:creator>
+<description>
+<![CDATA[
+<article> <section class="page"> <p dir="ltr">A budget laptop that manages to squeeze quad-core power into a reasonably slim-and-light design, the Acer Aspire 5 comes with a built-in advantage: Intel’s Optane memory, which gives the laptop’s traditional hard drive a serious boost. While its $49
+]]>
+<![CDATA[
+9 sticker price entails some compromises (including a dim screen, no keyboard backlighting, and an extra pound or so), the Aspire 5’s solid performance makes it an enticing choice for productivity-minded bargain hunters.</p><p dir="ltr"><em>This review is part of our ongoing roundup of <a href="https://www.pcworld.com/article/2854456/laptop-computers/the-best-pc-laptops-of-the-year.html">the best laptops</a>. Go there for reviews and comparisons of competing products. </em></p><p class="jumpTag"><a href="/article/3300576/laptop-computers/acer-aspire-5-a515-51-58hd-review.html#jump">To read this article in full, please click here</a></p></section></article>
+]]>
+</description>
+<link>
+https://www.pcworld.com/article/3300576/laptop-computers/acer-aspire-5-a515-51-58hd-review.html#tk.rss_all
+</link>
+<enclosure url="https://images.idgesg.net/images/article/2018/08/acer_aspire_5_primary-100769594-large.3x2.jpg" length="0" type="image/jpeg"/>
+<categories>
+<category>Laptops</category>
+<category>PCs</category>
+<category>Acer</category>
+<category>Business</category>
+</categories>
+</item>
+<item>
+<title>
+Bring back the headphone jack: Why USB-C audio still doesn't work
+</title>
+<pubDate>Mon, 10 Sep 2018 03:30:00 -0700</pubDate>
+<author>Gordon Mah Ung</author>
+<dc:creator>Gordon Mah Ung</dc:creator>
+<description>
+<![CDATA[
+<article> <section class="page"> <p>Smartphone makers, it’s time to have that come-to-Apple moment, where we tell you that it’s time to put the 3.5mm analog headset jack back on the phone—at least until you get your USB-C audio act in order. After plugging in a fistful of USB-C dongles and USB-C headsets into a stack of USB-C phones, I’ve discovered that it’s a mess, especially for third-party headsets. Here's why.</p><figure class="large "><img src="https://images.idgesg.net/images/article/2018/07/img_20180621_181052-100763634-large.jpg" border="0" alt="why doesn’t my usb-c headphone work" width="700" height="394" data-imageid="100763634" data-license="IDG"/> <small class="credit">Gordon Mah Ung</small> <figcaption> <p>Here’s why your USB-C analog audio adapter doesn’t work.</p><p class="jumpTag"><a href="/article/3284186/mobile/bring-back-the-headphone-jack-why-usb-c-audio-still-doesnt-work.html#jump">To read this article in full, please click here</a></p></section></article>
+]]>
+</description>
+<link>
+https://www.pcworld.com/article/3284186/mobile/bring-back-the-headphone-jack-why-usb-c-audio-still-doesnt-work.html#tk.rss_all
+</link>
+<enclosure url="https://images.idgesg.net/images/article/2018/09/google_dongle-100770927-large.3x2.jpg" length="0" type="image/jpeg"/>
+<categories>
+<category>Mobile</category>
+<category>Smartphones</category>
+</categories>
+</item>
+<item>
+<title>
+VAVA Home Cam review: This crowd-funded camera delivers solid security
+</title>
+<pubDate>Mon, 10 Sep 2018 03:00:00 -0700</pubDate>
+<author>Michael Ansaldo</author>
+<dc:creator>Michael Ansaldo</dc:creator>
+<description>
+Customizable motion detection and a 12-month rechargeable battery are this indoor/outdoor camera's strengths.
+</description>
+<link>
+https://www.techhive.com/article/3300476/security-cameras/vava-home-cam-review.html#tk.rss_all
+</link>
+<enclosure url="https://images.idgesg.net/images/article/2018/08/vava-home-cam-outsie-100769499-large.3x2.jpg" length="0" type="image/jpeg"/>
+<categories>
+<category>Cameras</category>
+<category>Surveillance</category>
+<category>Home Tech</category>
+</categories>
+</item>
+<item>
+<title>
+This week's new PC hardware: AMD Athlon returns, Das Keyboard gets smart, and RTX teases
+</title>
+<pubDate>Sat, 08 Sep 2018 04:00:00 -0700</pubDate>
+<author>Brad Chacos</author>
+<dc:creator>Brad Chacos</dc:creator>
+<description>
+<![CDATA[
+<article class="slideshow"><figure class="slide"><figcaption>Catch up</figcaption><img data-imageid="100771211" src="https://images.idgesg.net/images/article/2018/09/ekwb-vector-rtx-plate-100771211-large.jpg" data-thumb-src="https://images.idgesg.net/images/article/2018/09/ekwb-vector-rtx-plate-100771211-small.jpg" alt="ekwb vector rtx plate"/><p class="slideCredit">Image by <span class="slideCreditText">EKWB</span></p><div class="slideBody"><p>Fresh gear comes fast and furious in the wide-open world of PC hardware—so quickly that even computing faithful like us can’t possibly cover it all. Nobody wants to miss out on an interesting launch though. So welcome to “This week’s new PC hardware,” our weekly roundup dedicated to keeping you informed of the most intriguing, important PCs, PC components, and peripherals announced over the past seven days.</p><p class="jumpTag"><a href="/article/3304418/computers/this-weeks-new-pc-hardware-amd-athlon-das-keyboard-evga-rtx.html#jump">To read this article in full, please click here</a></p></section></article>
+]]>
+</description>
+<link>
+https://www.pcworld.com/article/3304418/computers/this-weeks-new-pc-hardware-amd-athlon-das-keyboard-evga-rtx.html#tk.rss_all
+</link>
+<enclosure url="https://images.idgesg.net/images/article/2018/09/ekwb-vector-rtx-plate-100771211-large.3x2.jpg" length="0" type="image/jpeg"/>
+<categories>
+<category>PCs</category>
+</categories>
+</item>
+<item>
+<title>
+Best gaming laptops: Know what to look for and which models rate highest
+</title>
+<pubDate>Fri, 07 Sep 2018 17:43:00 -0700</pubDate>
+<author>Gordon Mah Ung</author>
+<dc:creator>Gordon Mah Ung</dc:creator>
+<description>
+<![CDATA[
+<article> <section class="page"> <p>Picking a gaming laptop is a lot more fun today than it was five years ago, when a “real” gaming laptop meant 12 pounds of back-breaking hardware to haul around.</p><aside class="sidebar medium"> <h3>Gaming laptop cheat sheet</h3> <p>Our quick-hit recommendations:·</p><ul> <li>Best 17-inch gaming laptop: <a class="productLink" href="http://www.qksrv.net/links/8200811/type/am/sid/US-001-3232986-000-1441056-web-20/https://dell.com/en-us/shop/dell-laptops/new-alienware-17/spd/alienware-17-laptop/dkcwcflg044" rel="nofollow" target="_blank" data-productid="1441056" data-product-name="Alienware 17 R5" data-vars-product-name="Alienware 17 R5" data-vars-link-position-id="000" data-vars-link-position="Body Text" data-po="vendor" data-vars-outbound-link="https://dell.com/en-us/shop/dell-laptops/new-alienware-17/spd/alienware-17-laptop/dkcwcflg044" data-product-id="1441056" data-vars-product-id="1441056" data-bkc="PCs" data-bkmfr="Alienware" data-vars-bkmfr="Alienware" data-bkvndr="Dell" data-vars-bkvndr="Dell">Alienware 17 R5</a> <em>[dell.com]</em></li> <li>Best 15-inch gaming laptop: <a class="productLink" href="http://buy.geni.us/Proxy.ashx?TSID=14154&amp;GR_URL=https%3A%2F%2Fwww.amazon.com%2FMSI-GS65-Stealth-THIN-051-i7-8750H%2Fdp%2FB07BB7XN8C%3Fpsc%3D1%26SubscriptionId%3DAKIAIVYSMSQJCH4VBFJA%26tag%3Dpcworld02-20%26linkCode%3Dxm2%26camp%3D2025%26creative%3D165953%26creativeASIN%3DB07BB7XN8C%26ascsubtag%3DUS-001-3232986-000-1440845-web-20" rel="nofollow" target="_blank" data-productid="1440845" data-product-name="MSI GS65 Stealth Thin 8RE" data-vars-product-name="MSI GS65 Stealth Thin 8RE" data-vars-link-position-id="000" data-vars-link-position="Body Text" data-po="amazon" data-vars-outbound-link="https://www.amazon.com/MSI-GS65-Stealth-THIN-051-i7-8750H/dp/B07BB7XN8C?psc=1&amp;SubscriptionId=AKIAIVYSMSQJCH4VBFJA&amp;tag=pcworld02-20&amp;linkCode=xm2&amp;camp=2025&amp;creative=165953&amp;creativeASIN=B07BB7XN8C" data-product-id="1440845" data-vars-product-id="1440845" data-bkc="PCs" data-bkmfr="MSI" data-vars-bkmfr="MSI" data-bkvndr="Amazon" data-vars-bkvndr="Amazon">MSI GS65 Stealth Thin 8RE</a>  <em>[amazon.com]</em></li> <li>Best budget gaming laptop: <a class="productLink" href="http://www.qksrv.net/links/8200811/type/am/sid/US-001-3232986-000-1440882-web-20/http://www.dell.com/en-us/shop/dell-laptops/dell-g3-15-gaming/spd/g-series-15-3579-laptop" rel="nofollow" target="_blank" data-productid="1440882" data-product-name="G3 15 Gaming Laptop" data-vars-product-name="G3 15 Gaming Laptop" data-vars-link-position-id="000" data-vars-link-position="Body Text" data-po="other" data-vars-outbound-link="http://www.dell.com/en-us/shop/dell-laptops/dell-g3-15-gaming/spd/g-series-15-3579-laptop" data-product-id="1440882" data-vars-product-id="1440882" data-bkc="PCs" data-bkmfr="Dell" data-vars-bkmfr="Dell" data-bkvndr="Dell" data-vars-bkvndr="Dell">Dell G3 15</a> <em>[dell.com]</em></li> <li>Best portable gaming laptop: <a class="productLink" href="http://www.qksrv.net/links/8200811/type/am/sid/US-001-3232986-000-1436495-web-20/http://www.dell.com/en-us/shop/productdetails/alienware-13-laptop?~ck=mn" rel="nofollow" data-productid="1436495" target="_blank" data-product-name="13 (2016)" data-vars-product-name="13 (2016)" data-vars-link-position-id="000" data-vars-link-position="Body Text" data-po="vendor" data-vars-outbound-link="http://www.dell.com/en-us/shop/productdetails/alienware-13-laptop?~ck=mn" data-product-id="1436495" data-vars-product-id="1436495" data-bkc="PCs" data-bkmfr="Alienware" data-vars-bkmfr="Alienware" data-bkvndr="Dell" data-vars-bkvndr="Dell">Alienware 13</a> <em>[dell.com]</em></li> <li>Best price-is-no-object gaming laptop: <a class="productLink" href="http://go.redirectingat.com/?id=111346X1569483&amp;url=https%3A%2F%2Fwww.originpc.com%2Fgaming%2Flaptops%2Feon17-x%2F" rel="nofollow" target="_blank" data-productid="1440325" data-product-name="EON17-X" data-vars-product-name="EON17-X" data-vars-link-position-id="000" data-vars-link-position="Body Text" data-po="vendor" data-vars-outbound-link="https://www.originpc.com/gaming/laptops/eon17-x/" data-product-id="1440325" data-vars-product-id="1440325" data-bkc="PCs" data-bkmfr="OriginPC" data-vars-bkmfr="OriginPC" data-bkvndr="OriginPC" data-vars-bkvndr="OriginPC">Origin EON17-X</a> <em>[originpc.com]</em></li> </ul> </aside> <p>With major advances in laptop CPUs and graphics technologies, you can now get great gaming performance in sizes from slender to huge, and prices from budget to sky-high. That's where this handy-dandy buyer’s guide come in. We’ll name the best gaming laptops currently available, and we’ll highlight what to look for when buying a gaming laptop. (Check back often, as we’ll update this list as new products arrive.)</p><p class="jumpTag"><a href="/article/3232986/laptop-computers/best-gaming-laptops.html#jump">To read this article in full, please click here</a></p></section></article>
+]]>
+</description>
+<link>
+https://www.pcworld.com/article/3232986/laptop-computers/best-gaming-laptops.html#tk.rss_all
+</link>
+<enclosure url="https://images.idgesg.net/images/article/2017/07/dsc06177-100729898-large.3x2.jpg" length="0" type="image/jpeg"/>
+<categories>
+<category>Laptops</category>
+<category>Gaming</category>
+<category>Holiday Gift Guide</category>
+<category>Hardware</category>
+</categories>
+</item>
+<item>
+<title>
+Best Samsung Galaxy Note 9 cases: Top picks in every style
+</title>
+<pubDate>Fri, 07 Sep 2018 12:03:00 -0700</pubDate>
+<author>Michael Simon, Jason Cipriani</author>
+<dc:creator>Michael Simon, Jason Cipriani</dc:creator>
+<description>
+<![CDATA[
+<article> <section class="page"> <p>If you’ve decided to spend $1,000 or more on a Galaxy Note 9, one thing is certain: You’re going to need a case. With a 6.4-inch display and an all-glass design, the Note 9 is basically an accident waiting to happen. Use our list of the best cases to find the right one for you and keep your phone in pristine condition.</p><p><strong>Update 09/07/18:</strong> <em>Added the Case-Mate Sheer Crystal to best transparent cases, and the Case-Mate Karat Petals to best-looking cases, as well as a new best wallet cases category.</em></p><h2 class="toc">Best transparent Galaxy Note 9 cases</h2> <p>The Galaxy Note 9 comes in two colors—lilac purple and ocean blue—that are gorgeous enough to show off. That’s why a sturdy clear case is the Note 9’s best friend.</p><p class="jumpTag"><a href="/article/3300104/android/best-samsung-galaxy-note-9-cases-top-picks-in-every-style.html#jump">To read this article in full, please click here</a></p></section></article>
+]]>
+</description>
+<link>
+https://www.pcworld.com/article/3300104/android/best-samsung-galaxy-note-9-cases-top-picks-in-every-style.html#tk.rss_all
+</link>
+<enclosure url="https://images.idgesg.net/images/article/2018/08/note-9-cases-hub-100769583-large.3x2.jpg" length="0" type="image/jpeg"/>
+<categories>
+<category>Android</category>
+<category>Galaxy Note</category>
+<category>Samsung Electronics</category>
+<category>Mobile</category>
+<category>Smartphones</category>
+<category>Business</category>
+</categories>
+</item>
+<item>
+<title>
+The Occupation preview: This real-time investigative thriller feels groundbreaking
+</title>
+<pubDate>Fri, 07 Sep 2018 12:00:00 -0700</pubDate>
+<author>Hayden Dingman</author>
+<dc:creator>Hayden Dingman</dc:creator>
+<description>
+<![CDATA[
+<article> <section class="page"> <p>“You’ve already played past the end of the official demo, but you can keep going if you’d like.” That’s when I knew I’d fallen in love with <em>The Occupation</em>, flaws and all. I’d spent the better part of an hour playing, and I didn’t even realize it until the developer tapped me on the shoulder. And then I kept going.</p><p><a href="https://store.steampowered.com/app/765880/The_Occupation/" rel="nofollow"><em>The Occupation</em></a> is going to be a tough sell I think. It’s complicated, it’s stressful, it’s buggy-sometimes-bordering-on-broken—and it’s probably the most inventive game I’ve demoed in 2018.</p><h2>Time is fleeting</h2> <p>The watch is your friend. It’s also your enemy. In <em>The Occupation</em>, every second—and I mean <em>every</em> second—matters.</p><p class="jumpTag"><a href="/article/3304417/gaming/the-occupation-preview.html#jump">To read this article in full, please click here</a></p></section></article>
+]]>
+</description>
+<link>
+https://www.pcworld.com/article/3304417/gaming/the-occupation-preview.html#tk.rss_all
+</link>
+<enclosure url="https://images.idgesg.net/images/article/2018/09/occupation-2-100771119-large.3x2.jpg" length="0" type="image/jpeg"/>
+<categories>
+<category>Gaming</category>
+</categories>
+</item>
+<item>
+<title>
+Microsoft announces October 2 event: New Surface devices inbound?
+</title>
+<pubDate>Fri, 07 Sep 2018 10:40:00 -0700</pubDate>
+<author>Mark Hachman</author>
+<dc:creator>Mark Hachman</dc:creator>
+<description>
+<![CDATA[
+<article> <section class="page"> <p>Microsoft has scheduled an event in New York City on Oct. 2, where the company is expected to release new Surface devices.</p><p>Officially, the event is scheduled to update journalists on “how Microsoft is continuing to think about empowering every person on the planet to achieve more.” But it's expected to include the launch of one and probably multiple Surface devices—though not a Surface phone. It also may include some updates to Microsoft’s services, almost certainly including the <a href="https://www.pcworld.com/article/3301544/windows/the-next-windows-10-october-2018-update.html">Windows 10 October 2018 Update</a>.</p><p>While competitors like Apple, Dell, and HP tend to update their flagship notebook lines on an annual basis, Microsoft has been a bit more infrequent. Microsoft’s <a href="https://www.pcworld.com/article/3200215/tablet-pc/microsoft-surface-pro-2017-review.html">Surface Pro (2017)</a> was last refreshed in June of 2017, though the <a href="https://www.pcworld.com/article/3236865/computers/microsoft-surfacebook-2-review.html">Surface Book 2</a> was released later in the fall. It’s likely that we’ll see a refresh of the Surface Pro, and possibly a new Surface Book, too.</p><p class="jumpTag"><a href="/article/3304305/microsoft/microsoft-october-2-event-surface.html#jump">To read this article in full, please click here</a></p></section></article>
+]]>
+</description>
+<link>
+https://www.pcworld.com/article/3304305/microsoft/microsoft-october-2-event-surface.html#tk.rss_all
+</link>
+<enclosure url="https://images.idgesg.net/images/article/2018/04/surface-windows-10-timeline-100754414-large.3x2.jpg" length="0" type="image/jpeg"/>
+<categories>
+<category>Microsoft</category>
+<category>Microsoft Surface</category>
+<category>PCs</category>
+<category>Laptops</category>
+<category>Windows</category>
+<category>Windows Tablets</category>
+<category>Business</category>
+</categories>
+</item>
+<item>
+<title>
+This killer Samsung storage bundle pairs a 250GB T5 portable SSD with a 64GB memory card for $100
+</title>
+<pubDate>Fri, 07 Sep 2018 08:24:00 -0700</pubDate>
+<author>Alexandria Haslam</author>
+<dc:creator>Alexandria Haslam</dc:creator>
+<description>
+<![CDATA[
+<article> <section class="page"> <p>We highlight lots and lots of SSD deals here on PCWorld, but today's is more interesting than most. Amazon is pairing our favorite external performance drive, Samsung's T5 SSD, with a popular Evo Select memory card, so you can get storage for your PC and your phone for one super low price. That's a <a class="addLink" href="https://www.amazon.com/Samsung-Portable-Select-Memory-Adapter/dp/B07GKDZQ9K/" rel="nofollow noopener" target="_blank" data-product-name="Samsung 250GB T5 portable drive and a 64GB memory card" data-vars-product-name="Samsung 250GB T5 portable drive and a 64GB memory card" data-vars-outbound-link="https://www.amazon.com/Samsung-Portable-Select-Memory-Adapter/dp/B07GKDZQ9K/" data-product-id="000000" data-vars-product-id="000000" data-bkmfr="Samsung" data-vars-bkmfr="Samsung" data-bkvndr="Amazon" data-vars-bkvndr="Amazon" data-editparamvalues="250GB T5 and a 64GB memory card for $100|Samsung|https://www.amazon.com/Samsung-Portable-Select-Memory-Adapter/dp/B07GKDZQ9K/|Amazon|Samsung 250GB T5 portable drive and a 64GB memory card|2|Add Link">250GB T5 and a 64GB memory card for $100</a><a class="removelink" href="#" rel="nofollow"><span class="removelink-tooltip" style="display: none;" data-removeparamvalues="250GB T5 and a 64GB memory card for $100|Samsung|https://www.amazon.com/Samsung-Portable-Select-Memory-Adapter/dp/B07GKDZQ9K/|Amazon|Samsung 250GB T5 portable drive and a 64GB memory card|2|Add Link">Remove non-product link</span></a>, the lowest price we've seen when buying these two items together. In fact, the price is so low, you're essentially getting a cheap T5 and a free memory card.</p><p class="jumpTag"><a href="/article/3304382/components/this-killer-samsung-storage-bundle-pairs-a-250gb-t5-portable-ssd-with-a-64gb-memory-card-for-100.html#jump">To read this article in full, please click here</a></p></section></article>
+]]>
+</description>
+<link>
+https://www.pcworld.com/article/3304382/components/this-killer-samsung-storage-bundle-pairs-a-250gb-t5-portable-ssd-with-a-64gb-memory-card-for-100.html#tk.rss_all
+</link>
+<enclosure url="https://images.idgesg.net/images/article/2018/09/samsung-t5-evo-select-100771143-large.3x2.jpg" length="0" type="image/jpeg"/>
+<categories>
+<category>Components</category>
+<category>Hardware</category>
+</categories>
+</item>
+<item>
+<title>
+G-Sync vs. FreeSync: Adaptive sync gaming monitors explained
+</title>
+<pubDate>Fri, 07 Sep 2018 07:48:00 -0700</pubDate>
+<author>Brad Chacos</author>
+<dc:creator>Brad Chacos</dc:creator>
+<description>
+<![CDATA[
+<article> <section class="page"> <p>Once you’ve used a variable refresh rate monitor, you can’t go back. AMD’s FreeSync and Nvidia’s G-Sync technology promise PC gamers a buttery-smooth experience free of stuttering, screen tearing, or V-Sync-like input lag. But both ecosystems have their perks—and their downsides.</p><p>Now that adaptive sync monitors have several years of maturation under their belts, it’s time to take stock of FreeSync vs. G-Sync yet again. Here’s everything you need to know about AMD and Nvidia’s gaming displays.</p><blockquote> <p><em>Editor’s note: This article was last updated to include availability information for FreeSync 2 and G-Sync HDR displays, and link to our review of the Acer Predator X27 G-Sync HDR monitor.</em></p><p class="jumpTag"><a href="/article/2974781/displays/g-sync-vs-freesync-faq-how-variable-refresh-rate-displays-make-pc-games-super-smooth.html#jump">To read this article in full, please click here</a></p></section></article>
+]]>
+</description>
+<link>
+https://www.pcworld.com/article/2974781/displays/g-sync-vs-freesync-faq-how-variable-refresh-rate-displays-make-pc-games-super-smooth.html#tk.rss_all
+</link>
+<enclosure url="https://images.idgesg.net/images/article/2017/08/asus-swift-4k-monitor-100731365-large.3x2.jpg" length="0" type="image/jpeg"/>
+<categories>
+<category>Displays</category>
+<category>Games</category>
+<category>Hardware</category>
+<category>Nvidia</category>
+<category>AMD</category>
+</categories>
+</item>
+<item>
+<title>
+The Full Nerd ep. 66: Threadripper 2990WX memory bandwidth, Athlon with Radeon, and more
+</title>
+<pubDate>Fri, 07 Sep 2018 07:25:00 -0700</pubDate>
+<author>PCWorld Staff</author>
+<dc:creator>PCWorld Staff</dc:creator>
+<description>
+<![CDATA[
+<article> <section class="page"> <p>In this episode of the Full Nerd, <a href="https://twitter.com/gordonung" rel="nofollow">Gordon Mah Ung</a>, <a href="https://twitter.com/BradChacos" rel="nofollow">Brad Chacos</a>, <a href="https://twitter.com/AdamPMurray" rel="nofollow">Adam Patrick Murray</a> are joined by games guru <a href="https://twitter.com/haydencd" rel="nofollow">Hayden Dingman</a> once again—though games aren’t up for discussion.</p><p>Instead, Gordon covers his <a href="https://www.pcworld.com/article/3298859/components-processors/how-memory-bandwidth-is-killing-amds-32-core-threadripper-performance.html">investigation into the Threadripper 2990WX’s memory bandwidth performance</a>, sparked by the unusual configuration of the four dies connected within the 32-core (!!!) CPU. It’s complicated, and doubly so thanks to some quirky Windows behavior. Bottom line: If you can put all those cores and threads to work, the Threadripper 2990WX is still a very worthwhile purchase, though you might want to consider alternatives if your workload is especially memory intensive.</p><p class="jumpTag"><a href="/article/3304579/computers/the-full-nerd-episode-66.html#jump">To read this article in full, please click here</a></p></section></article>
+]]>
+</description>
+<link>
+https://www.pcworld.com/article/3304579/computers/the-full-nerd-episode-66.html#tk.rss_all
+</link>
+<enclosure url="https://images.idgesg.net/images/article/2018/09/tfn18_000a.00_18_01_01.still010-100771095-large.3x2.jpg" length="0" type="image/jpeg"/>
+<categories>
+<category>PCs</category>
+</categories>
+</item>
+<item>
+<title>
+Stick this compact, $6 dual-port USB wall charger in your bag and stay powered up anywhere
+</title>
+<pubDate>Fri, 07 Sep 2018 06:54:00 -0700</pubDate>
+<author>Ian Paul</author>
+<dc:creator>Ian Paul</dc:creator>
+<description>
+<![CDATA[
+<article> <section class="page"> <p>Charging your gear is one of those annoying chores that sucks, especially in the middle of the day, but is also absolutely necessary. Nobody likes a dead phone. Today, Amazon’s got a deal on tiny, travel-ready charger that can power two devices at once, and do so a bit smarter than other chargers.</p><p><a class="productLink" href="http://buy.geni.us/Proxy.ashx?TSID=14154&amp;GR_URL=https%3A%2F%2Fwww.amazon.com%2FAUKEY-Charger-COMPACT-Foldable-Samsung%2Fdp%2FB013US9FFY%3Fpsc%3D1%26SubscriptionId%3DAKIAIVYSMSQJCH4VBFJA%26tag%3Dpcworld02-20%26linkCode%3Dxm2%26camp%3D2025%26creative%3D165953%26creativeASIN%3DB013US9FFY%26ascsubtag%3DUS-001-3304302-000-1438245-web-20" rel="nofollow" target="_blank" data-productid="1438245" data-product-name="AUKEY USB Wall Charger, ULTRA COMPACT Dual Port 2.4A Output &amp; Foldable Plug for iPhone iPad Samsung &amp; Others - White" data-vars-product-name="AUKEY USB Wall Charger, ULTRA COMPACT Dual Port 2.4A Output &amp; Foldable Plug for iPhone iPad Samsung &amp; Others - White" data-vars-link-position-id="000" data-vars-link-position="Body Text" data-po="amazon" data-vars-outbound-link="https://www.amazon.com/AUKEY-Charger-COMPACT-Foldable-Samsung/dp/B013US9FFY?psc=1&amp;SubscriptionId=AKIAIVYSMSQJCH4VBFJA&amp;tag=pcworld02-20&amp;linkCode=xm2&amp;camp=2025&amp;creative=165953&amp;creativeASIN=B013US9FFY" data-product-id="1438245" data-vars-product-id="1438245" data-bkc="Mobile" data-bkmfr="Aukey" data-vars-bkmfr="Aukey" data-bkvndr="Amazon" data-vars-bkvndr="Amazon">Aukey’s compact dual-port wall charger is $6</a> with the checkout code <strong>DR4VS3R4</strong>. That’s $5 off the usual price of $11, or nearly half off. You’re getting a nice little charger for about the cost of a couple of lattes.</p><p class="jumpTag"><a href="/article/3304302/mobile/stick-this-ultra-compact-6-dual-port-usb-wall-charger-in-your-bag-and-stay-charged-anywhere.html#jump">To read this article in full, please click here</a></p></section></article>
+]]>
+</description>
+<link>
+https://www.pcworld.com/article/3304302/mobile/stick-this-ultra-compact-6-dual-port-usb-wall-charger-in-your-bag-and-stay-charged-anywhere.html#tk.rss_all
+</link>
+<enclosure url="https://images.idgesg.net/images/article/2018/05/aukey-wall-charger-100757441-large.3x2.jpg" length="0" type="image/jpeg"/>
+<categories>
+<category>Mobile</category>
+<category>Chargers</category>
+</categories>
+</item>
+<item>
+<title>
+Google Pixel 3 rumors: The leaks will be confirmed (or denied) on October 9 in NYC
+</title>
+<pubDate>Fri, 07 Sep 2018 05:59:00 -0700</pubDate>
+<author>Michael Simon</author>
+<dc:creator>Michael Simon</dc:creator>
+<description>
+<![CDATA[
+<article> <section class="page"> <p>The year of Android releases isn’t over until Google says it is. After Samsung, LG, and Apple each have their moment in the spotlight, all attention turns to the Pixel phone, and this year’s release—inevitably called Pixel 3—is shaping up to be one of the best phones of the year. At least if all the leaks come to fruition.</p><p>With only a few weeks until Google shows off its new handset, we already have a pretty good idea of how it will change the game. Much like <a href="https://www.pcworld.com/article/3204445/android/google-pixel-2-features-specs-faq.html">last year’s Pixel</a>, which brought a bigger screen and stereo speakers, and dumped the headphone jack, the Pixel 3 is shaping up to be a full-scale evolution of its predecessor that will reinvent the “pure” Android appearance. Here’s everything we <em>think</em> we know about Google’s next phone.</p><p class="jumpTag"><a href="/article/3293431/android/google-pixel-3-specs-features-price-release-date.html#jump">To read this article in full, please click here</a></p></section></article>
+]]>
+</description>
+<link>
+https://www.pcworld.com/article/3293431/android/google-pixel-3-specs-features-price-release-date.html#tk.rss_all
+</link>
+<enclosure url="https://images.idgesg.net/images/article/2018/07/pixel-3-render-leak-100765805-large.3x2.jpg" length="0" type="image/jpeg"/>
+<categories>
+<category>Android</category>
+<category>Mobile</category>
+<category>Business</category>
+</categories>
+</item>
+</channel>
+</rss>
