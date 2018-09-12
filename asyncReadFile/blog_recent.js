@@ -3,7 +3,7 @@ let fs = require('fs')
 
 var server = http.createServer(function (req, res) {
 	getTitles(res)
-}).listen(8000, "127.0.0.1")
+}).listen(3000, "127.0.0.1")
 
 function getTitles(res) {
 	fs.readFile('./titles.json', function(err, data) {
