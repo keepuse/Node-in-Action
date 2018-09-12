@@ -27,7 +27,26 @@ var server = http.createServer(function (req, res) {
 		case 'GET':
 			switch(req.url) {
 				case '/':
-					
+					work.show(db, res)
+					break
+				case '/archive':
+					work.showArchived(db, res)
 			}
+			break
 	}
 })
+
+db.query(
+	"CREATE TABLE IF NOT EXISTS work ("  // 建表,建完表开启HTTP服务器
+	+ "id INT(10) NOT NULL AUTO_INCREMENT, "
+	+ "hours DECIMAL(5,2) DEFAULT 0, "
+	+ "date DATE, "
+	+ "archived INT(1) DEFAULT 0, "
+	+ "description LONGTEXT,"
+	+ "PRIMARY KEY(id))",
+	function(err) {
+		if (err) throw err;
+		console.log('Server started...')
+		server.listen(3000, '127.0.0.1')   //启动HTTP服务器
+	} 
+)
